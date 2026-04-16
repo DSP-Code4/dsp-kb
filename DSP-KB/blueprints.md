@@ -55,7 +55,7 @@ title: 蓝图
 内容整理自 [TTenYX 专栏](https://www.bilibili.com/opus/843421333748449377)
 
 - 球体蓝图类型
-  - 单层球壳蓝图：以实用性出发的蓝图，如 "最短框架 450 节点 + 框架 + 32 壳面"、"仙 116" 等。
+  - 单层球壳蓝图：以实用性出发的蓝图，如 "60 节点 + 框架 + 壳面"。
   - 多层球壳蓝图：以观赏性出发的蓝图，如"法环"、"光轮"、"蜘蛛"、"红莲" 。
   - 戴森云蓝图
   - 戴森球蓝图：通常包含多层球壳蓝图和戴森云蓝图。
@@ -79,7 +79,7 @@ title: 蓝图
 
 - 光子球推荐：
 
-[ 60 节点 + 框架 + 壳面](https://github.com/DSPBluePrints/DysonSphereBluePrints/blob/main/%E5%AE%9E%E7%94%A8%E5%90%91%E6%88%B4%E6%A3%AE%E7%90%83%20Practical%20Dyson%20Sphere/(%E7%9B%AE%E5%89%8D%E6%9C%80%E7%A8%80)%E6%9C%80%E7%9F%AD%E6%A1%86%E6%9E%B6%E6%88%B4%E6%A3%AE%E7%90%83%20(Currently%20the%20rarest)%20shortest%20frame%20Dyson%20ball/60%E8%8A%82%E7%82%B9%2B%E6%A1%86%E6%9E%B6%2B%E5%A3%B3%E9%9D%A2%2060%20nodes%20%2B%20frame%20%2B%20shell.txt)  
+[60 节点 + 框架 + 壳面](https://github.com/DSPBluePrints/DysonSphereBluePrints/blob/main/%E5%AE%9E%E7%94%A8%E5%90%91%E6%88%B4%E6%A3%AE%E7%90%83%20Practical%20Dyson%20Sphere/(%E7%9B%AE%E5%89%8D%E6%9C%80%E7%A8%80)%E6%9C%80%E7%9F%AD%E6%A1%86%E6%9E%B6%E6%88%B4%E6%A3%AE%E7%90%83%20(Currently%20the%20rarest)%20shortest%20frame%20Dyson%20ball/60%E8%8A%82%E7%82%B9%2B%E6%A1%86%E6%9E%B6%2B%E5%A3%B3%E9%9D%A2%2060%20nodes%20%2B%20frame%20%2B%20shell.txt)  
 
 ## 放到最后
 
