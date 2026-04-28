@@ -57,7 +57,7 @@
 - 机甲海星：（待补充）（标签：mod作者、编程高手）
 - 林凌：蓝图制作人、科研人（标签：单基地432养殖奠基人之一）
 - 橙棂九月：初代知名mod作者（标签：初代mod作者）
-- 氢碳钾xy：蓝图制作者；（待补充）；混带蓝图；无偏蓝图；1875糖；5100糖；2805-11250分布式白糖；180彩糖；562火箭；57.6K太阳帆；27K增产剂（标签：蓝图制作者）
+- 氢碳钾xv：蓝图制作者；（待补充）；混带蓝图；无偏蓝图；1875糖；5100糖；2805-11250分布式白糖；180彩糖；562火箭；57.6K太阳帆；27K增产剂（标签：蓝图制作者）
 - 流浪法师悠米：攻略视频作者（标签：视频作者、攻略作者、邪道速通者、整活蓝图制作者、仙术蓝图作者、仙术原理探究者、mod作者、PW级爱好者）
 - 看客之眼：参与过CIDT，其余情况不明。（标签：未标注）
 - 莳槡_makuwa：满格六边形战士，低卡顿混带原理奠基人之一，密铺奠基人之一（标签：满格六边形战士、低卡顿混带原理奠基人、密铺奠基人、模组开发者、视频作者、密铺教程视频作者）
@@ -2165,20 +2165,20 @@ mod的奠基人，你现在r2modman装mod前必须先装他的BepInEx
 
 <!-- RAG_CHUNK_END -->
 
-<!-- RAG_CHUNK_START id="dsp-person-氢碳钾xy-84719e" type="person_profile" -->
-## DSP人物档案：氢碳钾xy
+<!-- RAG_CHUNK_START id="dsp-person-氢碳钾xv-84719e" type="person_profile" -->
+## DSP人物档案：氢碳钾xv
 
 ### 元数据
 
-- chunk_id: `dsp-person-氢碳钾xy-84719e`
+- chunk_id: `dsp-person-氢碳钾xv-84719e`
 - entity_type: `person_or_community_member`
-- name: `氢碳钾xy`
-- source_file: `DSP-UP/氢碳钾xy.md`
+- name: `氢碳钾xv`
+- source_file: `DSP-UP/氢碳钾xv.md`
 - visibility: `public_with_verification`
 - answer_policy: 以“社区资料整理/当前资料显示”的口吻回答；涉及争议、版本、数据和个人评价时提示交叉核验。
-- aliases_or_ids: Q群ID: 氢碳钾xy；B站ID: 氢碳钾xy
+- aliases_or_ids: Q群ID: 氢碳钾；B站ID: 氢碳钾xv
 - tags: 蓝图制作者
-- keywords: 戴森球计划；DSP；氢碳钾xy；蓝图制作者；蓝图；白糖；混带
+- keywords: 戴森球计划；DSP；氢碳钾xv；蓝图制作者；蓝图；白糖；混带
 
 ### 检索摘要
 
@@ -2190,8 +2190,8 @@ mod的奠基人，你现在r2modman装mod前必须先装他的BepInEx
 
 | ID | 内容 |
 |------|------|
-| Q群ID | 氢碳钾xy |
-| B站ID | 氢碳钾xy |
+| Q群ID | 氢碳钾xv |
+| B站ID | 氢碳钾xv |
 
 ### 身份标签
 
@@ -2218,9 +2218,9 @@ mod的奠基人，你现在r2modman装mod前必须先装他的BepInEx
 
 ### 常见检索问法
 
-- `氢碳钾xy 是谁？`
-- `氢碳钾xy 在戴森球计划社区有什么贡献？`
-- `氢碳钾xy 有哪些代表作、蓝图、mod 或视频？`
+- `氢碳钾xv 是谁？`
+- `氢碳钾xv 在戴森球计划社区有什么贡献？`
+- `氢碳钾xv 有哪些代表作、蓝图、mod 或视频？`
 
 <!-- RAG_CHUNK_END -->
 
